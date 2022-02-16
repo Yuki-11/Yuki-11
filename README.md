@@ -24,7 +24,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuki-11&show_icons=true&locale=en&hide=javascript,html" alt="yuki-11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuki-11&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="yuki-11" /></p>
-<br><br>
+
+<br>
+
 ## Recommended repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuki-11&repo=CSSR)](https://github.com/anuraghazra/github-readme-stats)
 
