@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuki Kondo.</h1>
-<h3 align="center">A undergraduate student at Toyota Technological Institute(TTI-J), and technician at Toyota Motor Corporation.</h3>
+<h3 align="center">A Research sientist at Toyota Motor Corporation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuki-11&label=Profile%20views&color=0e75b6&style=flat" alt="yuki-11" /> </p>
 
