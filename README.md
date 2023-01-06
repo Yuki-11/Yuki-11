@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yuki.kondo.ab@gmail.com**
 
-- 📄 Know about my experiences [https://yuki-11.github.io/](https://yuki-11.github.io/)
+- 📄 Know about my experiences [https://yuki-11.github.io/](https://yuki-11.github.io/)  (NOTE: The English version may be out of date, as my latest information has been updated with priority given to the Japanese version)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
