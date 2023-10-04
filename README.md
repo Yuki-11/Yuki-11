@@ -3,6 +3,7 @@
 <h3 align="center">A Researcher at Toyota Technological Institute.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuki-11&label=Profile%20views&color=0e75b6&style=flat" alt="yuki-11" /> </p>
+
 <p align="left"><img alig src="https://github-profile-trophy.vercel.app/?username=yuki-11&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" /> </p>
 
 <p align="left"> <a href="https://twitter.com/youkey_11" target="blank"><img src="https://img.shields.io/twitter/follow/youkey_11?logo=twitter&style=for-the-badge" alt="youkey_11" /></a> </p>
