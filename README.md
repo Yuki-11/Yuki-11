@@ -29,5 +29,6 @@
 <br><br><br>
 
 ## Recommended repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuki-11&repo=CSBSR)](https://github.com/Yuki-11/CSBSR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuki-11&repo=CSSR)](https://github.com/Yuki-11/CSSR)
 
